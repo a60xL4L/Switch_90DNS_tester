@@ -89,6 +89,7 @@ void checkHostnames()
     }
 
     printf("\nPress B to exit. Press X to retry.");
+    printf("\n1 to 3 domains should have said unblocked (Google, Bing, Github). If they did, this means the program is currently working. :) -a60");
     consoleUpdate(console);
 }
 
