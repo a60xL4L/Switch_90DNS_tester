@@ -3,3 +3,4 @@ A simple switch homebrew that does DNS resolution to see if we reach Nintendo's 
 
 
 ![screenshot.jpg](screenshot.jpg?raw=true)
+All credits go to https://github.com/meganukebmp/Switch_90DNS_tester for the program.
